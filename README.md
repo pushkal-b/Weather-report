@@ -1,5 +1,3 @@
-# WEATHER-REPO
-THIS IS MY FIRST EVER PYTHON PROJECT.
-THIS IS BASED ON WETHER API.
-IT CREATES A TXT FILE IN THE SAME DIRECTORY FOR THE SPECIFIED INPUT CITY NAME.
-
+# WEATHER-Report
+This is a simple python file for getting Weather Report
+for the user specified location at live time.
